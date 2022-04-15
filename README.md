@@ -2,7 +2,7 @@
 
 <br/>
 <a align="center" href="https://clone-fcc92.web.app/" target="_blank"> Amazon CLone </a>
-<br/>
+
 <img src="https://github.com/Abhirajmaid/Media-Storage/blob/master/Amazon-clone.png?raw=true">
 
 ### Features
