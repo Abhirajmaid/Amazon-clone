@@ -3,7 +3,7 @@
 <br/>
 <a align="center" href="https://clone-fcc92.web.app/" target="_blank"> Amazon CLone </a>
 
-<img src="https://github.com/Abhirajmaid/Media-Storage/blob/master/Amazon-clone.png?raw=true">
+<img src="https://camo.githubusercontent.com/1284941bfa255ed0105d5a77149267ee3e34809028f7d7130febedb3290507c9/68747470733a2f2f692e696d6775722e636f6d2f457472524f63322e706e67" width="700" height="400">
 
 ### Features
 
